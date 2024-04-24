@@ -1,3 +1,3 @@
 # CV
 
-![Access CV](CV_JAN_2023.pdf)
+![Access CV](CV_2024.pdf)
